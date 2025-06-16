@@ -29,7 +29,7 @@ Install the Thrift compiler (if not already):
 
 - #### Rest
     - Run ```TriftToRestApplication.java``` file.
-    - Thrift Server will run on 8080
+    - Tomcat (Springboot) Server will run on 8080
 
 ``Note``: Application is using Java 21
 
